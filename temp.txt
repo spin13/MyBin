@@ -1,1 +1,0 @@
-sudo cp ./bin/* /usr/local/bin
